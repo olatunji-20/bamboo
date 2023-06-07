@@ -23,7 +23,7 @@ h1 {
 }
 .container {
     width: 100%;
-    height: 500px;
-    border: 1px solid red;
+    height: 1500px;
+    border: 4px solid red;
 }
 </style>
