@@ -8,7 +8,12 @@
             <li>BENCH</li>
         </ul>
         <div class="small">
-            <div class="subsmall"></div>
+            <div class="subsmall">
+                <div class="prod"></div>
+                <div class="prod"></div>
+                <div class="prod"></div>
+                <div class="prod"></div>
+            </div>
         </div>
     </section>
 </template>
@@ -19,6 +24,7 @@ section {
     width: 100%;
     height: 500px;
     text-align:center;
+    padding: 40px 0px 550px;
 }
 h1 {
     font-size: 30px;
@@ -31,7 +37,7 @@ li {
 }
 .small {
     border: 2px solid red;
-    height: 250px;
+    height: 260px;
     width: 80%;
     margin: 50px auto 0px;
     padding: 5px;
@@ -39,7 +45,17 @@ li {
 }
 .subsmall {
     border: 1px solid green;
-    height: 230px;
+    height: 210px;
     width: 1500px;
+    padding: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.prod {
+    border: 1px solid blue;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
 }
 </style>
