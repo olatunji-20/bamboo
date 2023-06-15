@@ -37,7 +37,7 @@ li {
 }
 .small {
     border: 2px solid red;
-    height: 260px;
+    height: 280px;
     width: 80%;
     margin: 50px auto 0px;
     padding: 5px;

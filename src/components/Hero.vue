@@ -1,6 +1,6 @@
 <template>
     <section>
-        <h1>HERO</h1>
+        <h1>HERO SECTION</h1>
     </section>
 </template>
 

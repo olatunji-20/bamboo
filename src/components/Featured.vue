@@ -14,7 +14,7 @@ export default {
 <style scoped>
 section {
     width: 100%;
-    height: 1800px;
+    height: auto;
     border: 2px solid green;
     padding: 50px;
 }
@@ -23,7 +23,7 @@ h1 {
 }
 .container {
     width: 100%;
-    height: 1500px;
+    height: 500px;
     border: 4px solid red;
 }
 </style>
