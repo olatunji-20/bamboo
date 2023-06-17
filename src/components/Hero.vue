@@ -1,6 +1,6 @@
 <template>
     <section>
-        <h1>HERO SECTION</h1>
+        <h1>SSSSSSSS</h1>        
     </section>
 </template>
 
@@ -23,6 +23,6 @@ section {
     background-size: cover;
 }
 h1 {
-    margin-top: 300px;
+    margin-top: 200px;
 }
 </style>
